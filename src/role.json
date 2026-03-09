@@ -1,7 +1,7 @@
 {
   "status": 200,
   "info": "Wuthering Waves Role Data",
-  "timestamp": "2026-03-02T01:47:56.736356+00:00",
+  "timestamp": "2026-03-09T01:49:40.612325+00:00",
   "data": [
     {
       "id": "1102",
@@ -261,7 +261,7 @@
     },
     {
       "id": "1412",
-      "url": null,
+      "url": "src/role/role_pile_1412.png",
       "en": "Sigrika",
       "zh": "西格莉卡",
       "ja": "シグリカ",
