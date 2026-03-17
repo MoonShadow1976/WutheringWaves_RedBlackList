@@ -39,7 +39,7 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone https://github.com/MoonShadow1976/WutheringWaves_Character_Selection.git
+    git clone https://github.com/MoonShadow1976/WutheringWaves_RedBlackList.git
     ```
 2.  **添加角色图片**
     - 将角色PNG文件放入 `src/role/`目录，命名格式为 `role_pile_{id}.png`
