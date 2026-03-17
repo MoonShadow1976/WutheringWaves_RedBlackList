@@ -39,7 +39,7 @@ An interactive web application that allows fans of the popular game “Wuthering
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/MoonShadow1976/WutheringWaves_Character_Selection.git
+    git clone https://github.com/MoonShadow1976/WutheringWaves_RedBlackList.git
     ```
 2.  **Add Character Images**
     - Place character PNG files in the `src/role/` directory with naming convention `role_pile_{id}.png`
