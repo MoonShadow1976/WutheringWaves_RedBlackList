@@ -41,6 +41,13 @@
     "ja": "カルロッタ",
     "ko": "카를로타"
   },
+  "1108": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_FeiXue_UI.webp",
+    "en": "Hiyuki",
+    "zh-Hans": "绯雪",
+    "ja": "緋雪",
+    "ko": "히유키"
+  },
   "1202": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.webp",
     "en": "Chixia",
@@ -103,6 +110,13 @@
     "zh-Hans": "爱弥斯",
     "ja": "エイメス",
     "ko": "에이메스"
+  },
+  "1211": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_daniya_UI.webp",
+    "en": "Denia",
+    "zh-Hans": "达妮娅",
+    "ja": "ダーニャ",
+    "ko": "데니아"
   },
   "1301": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.webp",
