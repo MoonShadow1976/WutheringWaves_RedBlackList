@@ -1,7 +1,7 @@
 {
   "status": 200,
   "info": "Wuthering Waves Role Data",
-  "timestamp": "2026-04-20T02:12:55.914259+00:00",
+  "timestamp": "2026-05-04T02:30:08.818192+00:00",
   "data": [
     {
       "id": "1102",
@@ -133,7 +133,7 @@
     },
     {
       "id": "1211",
-      "url": null,
+      "url": "src/role/role_pile_1211.png",
       "en": "Denia",
       "zh": "达妮娅",
       "ja": "ダーニャ",
