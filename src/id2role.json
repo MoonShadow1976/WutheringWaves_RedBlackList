@@ -48,6 +48,13 @@
     "ja": "緋雪",
     "ko": "히유키"
   },
+  "1109": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luosela_UI.webp",
+    "en": "Lucilla",
+    "zh-Hans": "洛瑟菈",
+    "ja": "ルシラー",
+    "ko": "루실라"
+  },
   "1202": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.webp",
     "en": "Chixia",
@@ -166,6 +173,13 @@
     "zh-Hans": "卜灵",
     "ja": "卜霊",
     "ko": "복링"
+  },
+  "1308": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_LiBeiKa_UI.webp",
+    "en": "Rebecca",
+    "zh-Hans": "丽贝卡",
+    "ja": "レベッカ",
+    "ko": "레베카"
   },
   "1402": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.webp",
@@ -313,6 +327,13 @@
     "zh-Hans": "陆·赫斯",
     "ja": "リューク・ヘルセン",
     "ko": "루크 · 헤르센"
+  },
+  "1511": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luxi_UI.webp",
+    "en": "Lucy",
+    "zh-Hans": "露西",
+    "ja": "ルーシー",
+    "ko": "루시"
   },
   "1601": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.webp",
