@@ -1,7 +1,7 @@
 {
   "status": 200,
   "info": "Wuthering Waves Role Data",
-  "timestamp": "2026-06-15T03:43:06.885608+00:00",
+  "timestamp": "2026-07-13T02:21:58.311671+00:00",
   "data": [
     {
       "id": "1102",
@@ -66,6 +66,14 @@
       "zh": "洛瑟菈",
       "ja": "ルシラー",
       "ko": "루실라"
+    },
+    {
+      "id": "1110",
+      "url": "src/role/role_pile_1110.png",
+      "en": "Suisui",
+      "zh": "穗穗",
+      "ja": "穂穂",
+      "ko": "수수"
     },
     {
       "id": "1202",
@@ -210,6 +218,22 @@
       "zh": "丽贝卡",
       "ja": "レベッカ",
       "ko": "레베카"
+    },
+    {
+      "id": "1309",
+      "url": "src/role/role_pile_1309.png",
+      "en": "Rover: Electro",
+      "zh": "漂泊者·导电",
+      "ja": "漂泊者・電導",
+      "ko": "방랑자 · 전도"
+    },
+    {
+      "id": "1310",
+      "url": "src/role/role_pile_1310.png",
+      "en": "Rover: Electro",
+      "zh": "漂泊者·导电",
+      "ja": "漂泊者・電導",
+      "ko": "방랑자 · 전도"
     },
     {
       "id": "1402",
@@ -450,6 +474,14 @@
       "zh": "弗洛洛",
       "ja": "フローヴァ",
       "ko": "플로로"
+    },
+    {
+      "id": "1610",
+      "url": "src/role/role_pile_1610.png",
+      "en": "Yangyang: Xuanling",
+      "zh": "秧秧·玄翎",
+      "ja": "秧秧・玄翎",
+      "ko": "양양 · 현령"
     }
   ]
 }

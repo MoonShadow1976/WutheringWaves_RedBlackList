@@ -55,6 +55,13 @@
     "ja": "ルシラー",
     "ko": "루실라"
   },
+  "1110": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_SuiSui_UI.webp",
+    "en": "Suisui",
+    "zh-Hans": "穗穗",
+    "ja": "穂穂",
+    "ko": "수수"
+  },
   "1202": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.webp",
     "en": "Chixia",
@@ -180,6 +187,20 @@
     "zh-Hans": "丽贝卡",
     "ja": "レベッカ",
     "ko": "레베카"
+  },
+  "1309": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.webp",
+    "en": "Rover: Electro",
+    "zh-Hans": "漂泊者·导电",
+    "ja": "漂泊者・電導",
+    "ko": "방랑자 · 전도"
+  },
+  "1310": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue_UI.webp",
+    "en": "Rover: Electro",
+    "zh-Hans": "漂泊者·导电",
+    "ja": "漂泊者・電導",
+    "ko": "방랑자 · 전도"
   },
   "1402": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.webp",
@@ -390,5 +411,12 @@
     "zh-Hans": "弗洛洛",
     "ja": "フローヴァ",
     "ko": "플로로"
+  },
+  "1610": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_XuanLing_UI.webp",
+    "en": "Yangyang: Xuanling",
+    "zh-Hans": "秧秧·玄翎",
+    "ja": "秧秧・玄翎",
+    "ko": "양양 · 현령"
   }
 }
