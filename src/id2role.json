@@ -132,6 +132,13 @@
     "ja": "ダーニャ",
     "ko": "데니아"
   },
+  "1212": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jingran_UI.webp",
+    "en": "Jingran",
+    "zh-Hans": "景燃",
+    "ja": "景燃",
+    "ko": "경연"
+  },
   "1301": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.webp",
     "en": "Calcharo",
@@ -278,6 +285,13 @@
     "zh-Hans": "西格莉卡",
     "ja": "シグリカ",
     "ko": "시그리카"
+  },
+  "1413": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qingxiao_UI.webp",
+    "en": "Qingxiao",
+    "zh-Hans": "清宵",
+    "ja": "清宵",
+    "ko": "청초"
   },
   "1501": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan_UI.webp",
