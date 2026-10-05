@@ -209,6 +209,20 @@
     "ja": "漂泊者・電導",
     "ko": "방랑자 · 전도"
   },
+  "1311": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Xin_UI.webp",
+    "en": "Hsin",
+    "zh-Hans": "心",
+    "ja": "心",
+    "ko": "여우의 별자리"
+  },
+  "1312": {
+    "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_SuoMing_UI.webp",
+    "en": "Suoming",
+    "zh-Hans": "锁暝",
+    "ja": "鎖暝",
+    "ko": "쇄명"
+  },
   "1402": {
     "icon": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.webp",
     "en": "Yangyang",

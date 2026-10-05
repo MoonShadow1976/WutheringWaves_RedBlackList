@@ -1,7 +1,7 @@
 {
   "status": 200,
   "info": "Wuthering Waves Role Data",
-  "timestamp": "2026-09-14T03:02:30.050138+00:00",
+  "timestamp": "2026-10-05T03:43:41.714716+00:00",
   "data": [
     {
       "id": "1102",
@@ -242,6 +242,22 @@
       "zh": "漂泊者·导电",
       "ja": "漂泊者・電導",
       "ko": "방랑자 · 전도"
+    },
+    {
+      "id": "1311",
+      "url": "src/role/role_pile_1311.png",
+      "en": "Hsin",
+      "zh": "心",
+      "ja": "心",
+      "ko": "여우의 별자리"
+    },
+    {
+      "id": "1312",
+      "url": "src/role/role_pile_1312.png",
+      "en": "Suoming",
+      "zh": "锁暝",
+      "ja": "鎖暝",
+      "ko": "쇄명"
     },
     {
       "id": "1402",
